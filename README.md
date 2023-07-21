@@ -1,9 +1,10 @@
-# League of Legends - Games - Dataset
-
 <h1 align="center">
   
-  <a href="https://www.leagueoflegends.com/es-mx/">
-  <img  height="270" src="https://1000marcas.net/wp-content/uploads/2020/11/League-of-Legends-logo.png" alt="league-of-legends-logo"></a>
+  <a href="https://www.leagueoflegends.com/es-mx/" >
+    League of Legends - Games Analytic
+    <br/>
+    <br/>
+  <img  height="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/1200px-League_of_Legends_2019_vector.svg.png" alt="league-of-legends-logo"></a>
  </a>
 </h1>
 
