@@ -1,11 +1,10 @@
 <h1 align="center">
   
   <a href="https://www.leagueoflegends.com/es-mx/" >
-    League of Legends - Games Analysis
-    <br/>
-    <br/>
-  <img  height="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/1200px-League_of_Legends_2019_vector.svg.png" alt="league-of-legends-logo"></a>
- </a>
+  Games Analysis
+  <br/>
+  <img  height="160" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/1200px-League_of_Legends_2019_vector.svg.png" alt="league-of-legends-logo">  
+  </a>
 </h1>
 
 ## Hypothesis:
